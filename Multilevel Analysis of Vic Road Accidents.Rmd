@@ -48,11 +48,11 @@ library(tidyverse)
 
 ```{r include=FALSE}
 # read data from source
-accident <- read.csv("Datasets/Road Crashes/ACCIDENT.csv")
+accident <- read.csv("dataset/Road Crashes/ACCIDENT.csv")
 
-vehicles <- read.csv("Datasets/Road Crashes/VEHICLE.csv")
+vehicles <- read.csv("dataset/Road Crashes/VEHICLE.csv")
 
-person <- read.csv("Datasets/Road Crashes/PERSON.csv")
+person <- read.csv("dataset/Road Crashes/PERSON.csv")
 ```
 
 ```{r include=FALSE}
