@@ -4,7 +4,7 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
 
 
-# Victoria Road Accidents Contributed Factors Anlysis <img src="https://cdn.dribbble.com/users/359847/screenshots/2667230/pixel_car.gif" align="right" width="150"/>
+# Road Accidents Factors Anlysis <img src="https://cdn.dribbble.com/users/359847/screenshots/2667230/pixel_car.gif" align="right" width="150"/>
 
  > This study dives deeper into the vehicle aspect of road accidents to answer the question of whether vehicle’s make and model have an impact on the severity of road accidents or not using statistical Multi-level Modelling. 
 
