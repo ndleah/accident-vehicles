@@ -8,10 +8,10 @@
 
  > This study dives deeper into the vehicle aspect of road accidents to answer the question of whether vehicle’s make and model have an impact on the severity of road accidents or not using statistical Multi-level Modelling. 
 
-![Issues](https://img.shields.io/github/issues/ndleah/road-accident-factors-multilevel-analysis?style=social&logo=github)
-![Pull Requests](https://img.shields.io/github/issues-pr/ndleah/road-accident-factors-multilevel-analysis?style=social&logo=github)
-![Forks](https://img.shields.io/github/forks/ndleah/road-accident-factors-multilevel-analysis?style=social&logo=github)
-![Stars](https://img.shields.io/github/stars/ndleah/road-accident-factors-multilevel-analysis?style=social&logo=github)
+![Issues](https://img.shields.io/github/issues/ndleah/accident-vehicles?style=social&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/ndleah/accident-vehicles?style=social&logo=github)
+![Forks](https://img.shields.io/github/forks/ndleah/accident-vehicles?style=social&logo=github)
+![Stars](https://img.shields.io/github/stars/ndleah/accident-vehicles?style=social&logo=github)
 
 
 <center>
